@@ -4,4 +4,4 @@ I made it using basics of javascript events. Basically it is a minor project fro
 
 ## Screenshot
 
-<img src="calcss.png" alt="" width="500" height="600">
+<img src="calcss.png" alt="">
